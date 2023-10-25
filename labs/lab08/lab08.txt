@@ -1,0 +1,16 @@
+Aim for OS Lab-8:
+
+Implementation of own linux shell.
+
+Use the commands learned in earlier practical sessions and try to achieve the below mentioned functionalities:
+1. Read the command entered and if length is non-null, keep it in history.
+2. Parse and break up of commands into individual words and strings
+3. Check for special characters like pipes etc.
+4. Check if built-in commands have been entered
+5. If pipe is used then handle that.
+6. Execute system commands and libraries by forking a child and calling appropriate exec function.
+7. Come out and ask for next input.
+
+Programs to be written in journal:
+
+1. WAP to achieve functionality of shell.

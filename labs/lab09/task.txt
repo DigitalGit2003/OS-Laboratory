@@ -1,0 +1,9 @@
+Aim for OS Lab-9:
+Study of Semaphores and implementation of Producer-Consumer Problem.
+
+
+Programs to be written in journal:
+
+1. Demonstrate use of semaphores to manage global variable count.
+2. WAP to Implement solution for infinite buffer producer consumer problem.
+3. WAP to Implement solution for finite buffer producer consumer problem.
